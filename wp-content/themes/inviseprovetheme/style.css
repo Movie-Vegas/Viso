@@ -1,0 +1,134 @@
+/*
+Theme Name: Inviseprov
+
+Author: Dan Ayettey
+Author URI: https://localhost
+Description:Hashtag thundercats before they sold out celiac ramps, coloring book everyday carry yr bespoke. Readymade fingerstache live-edge microdosing. Sartorial kombucha street art williamsburg, biodiesel vaporware ethical. Marfa hell of mikshk, asymmetrical normcore pinterest hot chicken banjo plaid woke letterpress enamel pin post-ironic la croix chia. TABB 3 TABB 2 TABB 1 Ramps seivage food truck, four dollar toast farm-to table organic disrupt cray shabby chic letter- press plaid bespoke fashion axe neutra. Single orgin coffee iceland gochujang tacos. Yuccie try hard keytar, chartreuse single-orgin coffee sriracha pork bely gochujang tumeric paleo.
+Version: 1.0
+
+*/
+
+
+/**
+ * Table of Contents
+ *
+
+
+   */
+
+
+body{
+
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+
+}
+#job-title{
+	float: right;
+	font-weight: bolder;
+	font-size: 12px;
+	padding-bottom: 2px;
+	border-bottom: 3px solid white;
+	text-transform: uppercase;
+
+
+}
+.social-media:hover{
+	cursor: pointer;
+}
+#company-name{
+	float: left;
+	text-transform: uppercase;
+	font-size:18px ;
+	font-weight: bolder;
+	padding-bottom: 2px;
+	border-bottom: 3px solid white;
+}
+#company-name:hover{
+	cursor: pointer;
+
+}
+
+#menu-bar{
+	background: black;
+	position: fixed;
+	margin: 0;
+	left: 0;
+	top: 0;
+	right: 0;
+	color: white;
+	padding: 14px;
+}
+.social-media{
+	float: right;
+	background: white;
+
+	display: block;
+	padding: 6px 8px 6px 8px;
+	border-radius: 20px;
+	margin-left: 12px;
+
+
+}
+#footer{
+	background: black;
+	position: fixed;
+	margin: 0;
+	left: 0;
+    font-size: 11px;
+	bottom: 0;
+	right: 0;
+	color: white;
+	padding: 16px;
+}
+#tabb-1{
+	background: black;
+	color: white;
+}
+.tab-content{
+	width: 95%;
+	margin-left: 10px;
+	margin-right: 20px;
+}
+#form-content-position{
+    margin-left: 22%;
+	margin-top:76px;
+	padding: 0;
+
+}
+#to-do{
+	width: 71.400%;
+	margin-bottom: 10px;
+}
+#to-do-bold{
+	font-weight: 600;
+
+}
+
+#table-content{
+    margin-top: -6px;
+	padding: 0;
+
+
+}
+#to-do-title{
+	font-weight: bolder;
+	margin-bottom: 13px;
+    font-size: large;
+}
+#tab-table{
+	border: 2px solid black;
+	border-collapse: collapse;
+	width: 70%;
+}
+.tabs{
+	border: 2px solid black;
+	height: 46px;
+
+}
+.tabs:hover{
+	cursor: pointer;
+	transition: 2ms;
+}
+td{
+	height: 184px;
+}
